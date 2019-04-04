@@ -5,10 +5,15 @@ E:\文档统计\文档统计\obj\Debug\文档统计.csprojAssemblyReference.cach
 E:\文档统计\文档统计\obj\Debug\文档统计.csproj.CoreCompileInputs.cache
 E:\文档统计\文档统计\obj\Debug\文档统计.exe
 E:\文档统计\文档统计\obj\Debug\文档统计.pdb
+E:\201731062206\文档统计\文档统计\bin\Debug\文档统计.exe.config
+E:\201731062206\文档统计\文档统计\bin\Debug\文档统计.exe
+E:\201731062206\文档统计\文档统计\bin\Debug\文档统计.pdb
+E:\201731062206\文档统计\文档统计\obj\Debug\文档统计.csprojAssemblyReference.cache
+E:\201731062206\文档统计\文档统计\obj\Debug\文档统计.csproj.CoreCompileInputs.cache
+E:\201731062206\文档统计\文档统计\obj\Debug\文档统计.exe
+E:\201731062206\文档统计\文档统计\obj\Debug\文档统计.pdb
 E:\WordCount\201731062206\文档统计\文档统计\bin\Debug\文档统计.exe.config
 E:\WordCount\201731062206\文档统计\文档统计\bin\Debug\文档统计.exe
-E:\WordCount\201731062206\文档统计\文档统计\bin\Debug\文档统计.pdb
 E:\WordCount\201731062206\文档统计\文档统计\obj\Debug\文档统计.csprojAssemblyReference.cache
 E:\WordCount\201731062206\文档统计\文档统计\obj\Debug\文档统计.csproj.CoreCompileInputs.cache
 E:\WordCount\201731062206\文档统计\文档统计\obj\Debug\文档统计.exe
-E:\WordCount\201731062206\文档统计\文档统计\obj\Debug\文档统计.pdb
